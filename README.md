@@ -1,4 +1,6 @@
 # YT-Downloader 📥
+![Release Version](https://img.shields.io/github/v/release/FrostBitzX/yt-downloader?color=6699FF)
+
 YT Downloader and MP3 Converter is a simple tool for downloading YouTube videos and converting them to high-quality MP3 audio files. With just a few clicks, you can save your favorite content and enjoy it offline anytime, anywhere. It’s fast and easy to use!
 
 *This is a personal project created to practice myself.*
